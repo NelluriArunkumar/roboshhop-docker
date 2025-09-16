@@ -1,0 +1,4 @@
+docker run -d --name redis --network roboshop redis:7 
+
+##For redis we are not configuring anything
+##SO wwe are directly pull  the redis from docker hub...
